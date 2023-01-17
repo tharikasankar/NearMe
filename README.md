@@ -163,7 +163,7 @@ Roever Engineering College is an ISO 9001:2008 certified institution established
 </p>
 </body>
 </html>
-
+```
 
 ## Output:
 ![Output](./screenshots/map.png)
@@ -172,7 +172,7 @@ Roever Engineering College is an ISO 9001:2008 certified institution established
 
 ![Output](./screenshots/out 2.png)
 
-![Output](./screenshots/oyt 3.png)
+![Output](./screenshots/out 3.png)
 
 ![Output](./screenshots/out 4.png)
 
