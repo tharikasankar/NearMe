@@ -6,12 +6,16 @@ To develop a website to display details about the places around my house.
 
 ### Step 1:
 Clone the github repository into Theia IDE
+
 ### Step 2:
 Create a mew Django project
+
 ### Step 3:
 Write the needed HTML code
+
 ### Step 4:
 Run the Django server and execute the HTML files
+
 ## Code:
 ```
 map.html
@@ -168,15 +172,15 @@ Roever Engineering College is an ISO 9001:2008 certified institution established
 ## Output:
 ![Output](./screenshots/map.png)
 
-![Output](./screenshots/out 1.png)
+![Output](./screenshots/out1.png)
 
-![Output](./screenshots/out 2.png)
+![Output](./screenshots/out2.png)
 
-![Output](./screenshots/out 3.png)
+![Output](./screenshots/out3.png)
 
-![Output](./screenshots/out 4.png)
+![Output](./screenshots/out4.png)
 
-![Output](./screenshots/out 5.png)
+![Output](./screenshots/out5.png)
 
 ## HTML Validator
 ![HTML Validator](./screenshots/valid1.png)
